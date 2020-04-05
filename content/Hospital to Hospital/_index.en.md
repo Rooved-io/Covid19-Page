@@ -5,4 +5,4 @@ weight = 2
 pre = "<b></b>"
 +++
 
-## [Emergency Procedure (Patient Transfer)](/typicalprocedures/emergencyprocedurehomhos/)
+## [Emergency Procedure (Patient Transfer)](/Covid19-Page/public/typicalprocedures/emergencyprocedurehomhos.ar/)

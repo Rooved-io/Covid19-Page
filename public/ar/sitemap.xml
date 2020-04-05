@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/awarness/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/awarness/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/general/</loc>
     <xhtml:link
                 rel="alternate"
@@ -50,6 +64,48 @@
   </url>
   
   <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/ar/typicalprocedures/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/typicalprocedures/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/ar/home-to-hospital/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/home-to-hospital/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/home-to-hospital/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/ar/hospital-to-hospital/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/hospital-to-hospital/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/hospital-to-hospital/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/ar/typicalprocedures/testedprocedure/</loc>
     <xhtml:link
                 rel="alternate"
@@ -60,20 +116,6 @@
                 rel="alternate"
                 hreflang="ar"
                 href="https://rooved-io.github.io/Covid19-Page/public/ar/typicalprocedures/testedprocedure/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://rooved-io.github.io/Covid19-Page/public/fr/awarness/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://rooved-io.github.io/Covid19-Page/public/ar/awarness/"
                 />
   </url>
   
@@ -113,10 +155,6 @@
                 hreflang="ar"
                 href="https://rooved-io.github.io/Covid19-Page/public/ar/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://rooved-io.github.io/Covid19-Page/public/ar/typicalprocedures/</loc>
   </url>
   
   <url>
