@@ -9,6 +9,14 @@ home = [ "HTML", "RSS", "JSON"]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "blue"
 
+
+[[menu.shortcuts]] 
+name = "<i class='fas fa-clinic-medical'></i>&nbsp Assesement Form"
+identifier = "AF"
+url = "https://www.rooved.io"
+hrefTargetBlank = true
+weight = 8
+
 [[menu.shortcuts]] 
 name = "<i class='fas fa-newspaper'></i>&nbsp rooved.io for latest news"
 identifier = "ds"
@@ -17,18 +25,18 @@ weight = 10
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-youtube'></i>&nbsp youtube channel"
-url = "/showcase"
+url = "https://www.youtube.com/channel/UCWP4w279NFT8_JDuxGjdgzg"
 weight = 11
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-phone-alt'></i>&nbsp Contact us"
 identifier = "hugodoc"
-url = "https://gohugo.io/"
+url = "mailto:jeankhoury0@gmail.com"
 weight = 20
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-bullhorn'></i>&nbsp Credits"
-url = "/credits"
+url = "mailto:Rooved@rooved.io"
 weight = 30
 
 # English is the default language
