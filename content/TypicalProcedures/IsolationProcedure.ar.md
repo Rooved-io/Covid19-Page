@@ -13,7 +13,7 @@ pre = "<b></b>"
 * هل أنت المستجيب الأول ، أخصائي الرعاية الصحية ، أو موظف أو حاضر في مرفق رعاية الأطفال أو الكبار؟
 
 #### إذا كان على الأقل ** نعم **
-- إرسال إلى [الحصول على إجراء اختبار](/typicalprocedures/testedprocedure)  
+- إرسال إلى [الحصول على إجراء اختبار](/Covid19-Page/public/typicalprocedures/testedprocedure)  
 
 
 #### If all ** No **

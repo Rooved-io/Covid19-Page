@@ -13,7 +13,7 @@ Ask patient the following questions
 * Are you a first responder, healthcare worker, or employee or attendee of a child or adult care facility? 
 
 #### If at least one **Yes**
-- Send to The [Get Tested Procedure](/typicalprocedures/testedprocedure)  
+- Send to The [Get Tested Procedure](/Covid19-Page/public/typicalprocedures/testedprocedure)  
 
 
 #### If all  **No**

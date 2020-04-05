@@ -9,14 +9,14 @@ pre = "<b> </b>"
 
 ---
 
-#### 1. [COVID-19 General Details](/awarness/general)
+#### 1. [COVID-19 General Details](/Covid19-Page/public/awarness/general)
 
-#### 2. [COVID-19 Testing Details](/awarness/test)
+#### 2. [COVID-19 Testing Details](/awarness/test) SOON
 
-#### 3. [COVID-19 Prevention Practices](/awarness/practices/)
+#### 3. [COVID-19 Prevention Practices](/awarness/practices/) SOON
 
-#### 4. [COVID-19 Transmission Details](/awarness/transmission/)
+#### 4. [COVID-19 Transmission Details](/awarness/transmission/) SOON
 
-#### 5. [Quarantine full guide](/awarness/quarantine/)
+#### 5. [Quarantine full guide](/awarness/quarantine/) SOON
 
-#### 6. [Follow up after discharge](/awarness/followup/)
+#### 6. [Follow up after discharge](/awarness/followup/) SOON

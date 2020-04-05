@@ -37,6 +37,6 @@ Most people (about 80%) recover from the disease without needing special treatme
 Older people, and those with underlying medical problems like high blood pressure, heart problems or diabetes, are more likely to develop serious illness. 
 
 {{% notice note %}}
-Go to the [Home to hospital assement](/home-to-hospital/) if he feels any of the above.
+Go to the [Home to hospital assement](/Covid19-Page/public/home-to-hospital/) if he feels any of the above.
 {{% /notice %}}
 
