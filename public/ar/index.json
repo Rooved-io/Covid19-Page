@@ -1,21 +1,35 @@
 [
 {
-	"uri": "http://example.org/ar/",
-	"title": "Call center assistant",
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/ar/awarness/general/",
+	"title": "معلومات عامة",
+	"tags": [],
+	"description": "",
+	"content": "ما هو الفيروس التاجي؟ الفيروسات التاجية هي عائلة كبيرة من الفيروسات التي قد تسبب المرض في الحيوانات أو البشر. في البشر ، من المعروف أن العديد من الفيروسات التاجية تسبب التهابات الجهاز التنفسي التي تتراوح من نزلات البرد إلى أمراض أكثر حدة مثل متلازمة الشرق الأوسط التنفسية (MERS) ومتلازمة الجهاز التنفسي الحادة الحادة (سارز). أحدث فيروسات التاجية المكتشفة يسبب مرض التاجية COVID-19.\n"
+},
+{
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/ar/awarness/",
+	"title": "Awarnesses",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/ar/categories/",
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/ar/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/ar/tags/",
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/ar/tags/",
 	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/ar/",
+	"title": "مساعد مركز الاتصال",
 	"tags": [],
 	"description": "",
 	"content": ""

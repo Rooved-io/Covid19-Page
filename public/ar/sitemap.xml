@@ -3,44 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/ar/</loc>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/general/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://rooved-io.github.io/Covid19-Page/public/awarness/general/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rooved-io.github.io/Covid19-Page/public/fr/awarness/general/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://example.org/ar/"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/awarness/general/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ar/categories/</loc>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://example.org/categories/"
+                hreflang="fr"
+                href="https://rooved-io.github.io/Covid19-Page/public/fr/awarness/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://example.org/ar/categories/"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/awarness/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ar/tags/</loc>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/ar/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://rooved-io.github.io/Covid19-Page/public/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rooved-io.github.io/Covid19-Page/public/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://example.org/ar/tags/"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/ar/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rooved-io.github.io/Covid19-Page/public/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/ar/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rooved-io.github.io/Covid19-Page/public/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/"
                 />
   </url>
   

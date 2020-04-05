@@ -1,83 +1,111 @@
 [
 {
-	"uri": "http://example.org/sections/awarness/awarness/",
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/awarness/",
 	"title": "Awarness",
 	"tags": [],
 	"description": "",
-	"content": "Knowledge Base  1. COVID-19 Testing Details 2. COVID-19 Prevention Practices 3. COVID-19 Transmission Details 4. Quarantine full guide 5. Follow up after discharge "
+	"content": "Knowledge Base  1. COVID-19 General Details 2. COVID-19 Testing Details 3. COVID-19 Prevention Practices 4. COVID-19 Transmission Details 5. Quarantine full guide 6. Follow up after discharge "
 },
 {
-	"uri": "http://example.org/sections/followup/followup/",
-	"title": "Followup",
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/awarness/general/",
+	"title": "General Informations",
 	"tags": [],
 	"description": "",
-	"content": "Awarness Best Practices Disc\n"
+	"content": "What is a Coronavirus? Coronaviruses are a large family of viruses which may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19.\n What is COVID-19? COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019.\n Similarities and differences – COVID-19 and influenza As the COVID-19 outbreak continues to evolve, comparisons have been drawn to influenza. Both cause respiratory disease, yet there are important differences between the two viruses and how they spread. This has important implications for the public health measures that can be implemented to respond to each virus.\n What are the symptoms? The most common symptoms of COVID-19 are:\n Fever Tiredness Dry cough  Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea. These symptoms are usually mild and begin gradually. Some people become infected but don’t develop any symptoms and don\u0026rsquo;t feel unwell. Most people (about 80%) recover from the disease without needing special treatment. Around 1 out of every 6 people who gets COVID-19 becomes seriously ill and develops difficulty breathing. Older people, and those with underlying medical problems like high blood pressure, heart problems or diabetes, are more likely to develop serious illness.\nGo to the Home to hospital assement if he feels any of the above.\n "
 },
 {
-	"uri": "http://example.org/sections/practices/practices/",
-	"title": "Practices",
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/emergencyprocedurehomhos/",
+	"title": "Emergency Procedure (Patient Transfer)",
 	"tags": [],
 	"description": "",
-	"content": "Awarness Best Practices Disc\n"
+	"content": "Ask patient if he would like to get transferred to RHUH or to another hospital.\nIf patient requests to get transferred to another hospital other than RHUH Provide the patient with the hospitals that accommodate COVID19 positive patient and inform them that they will have to coordinate with them by themselves.\nHospitals that accommodate COVID19 patients (SOON)\n If patient wants to get transferred to RHUH  patient will be put on hold. Operator will call RHUH, give the information about the patient, get clearance in order to admit the patient. Operator will then call the Lebanese Red Cross (140), give the information about the patient, get clearance, so they can coordinate with the patient about the transfer. Talk to patient and inform them that they got cleared from RHUH and that they will be contacted by the Red cross shortly to coordinate the transfer.  If patient has suicidal Thougnt Transfer to 1564.\n "
 },
 {
-	"uri": "http://example.org/sections/quarantine/quarantine/",
-	"title": "Quarantine",
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/home-to-hospital/",
+	"title": "Home to Hospital Procedure",
 	"tags": [],
 	"description": "",
-	"content": "Awarness Best Practices Disc\n"
+	"content": " Have you recently traveled to an area with known local spread of COVID-19? Have you come into close contact (within 6 feet) with someone who has a laboratory confirmed COVID – 19 diagnosis in the past 14 days? Do you have a fever (greater than 100.4 F or 38.0 C) OR symptoms of lower respiratory illness such as cough, shortness of breath, difficulty breathing or sore throat? Are you a first responder, healthcare worker, or employee or attendee of a child or adult care facility?  If most questions are false  Send to The awerness  If most question are true  Do you feel troubled? Are you 50 years plus? Any cancer or other problems?   if Yes to one of the questions  Go to Hospital  if No  Go to Laboratory   "
 },
 {
-	"uri": "http://example.org/sections/test/test/",
-	"title": "Testing Detailss",
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/hospital-to-hospital/",
+	"title": "Hospital To Hospital Procedure",
 	"tags": [],
 	"description": "",
-	"content": "Awarness Best Practices Disc\n"
+	"content": ""
 },
 {
-	"uri": "http://example.org/sections/trasmission/transmission/",
-	"title": "Transmission",
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/isolationprocedure/",
+	"title": "Isolation Procedure",
 	"tags": [],
 	"description": "",
-	"content": "Awarness Best Practices Disc\n"
+	"content": "Ask patient the following questions\n  Have you recently traveled to an area with known local spread of COVID-19? (Iran, Italy, spain, USA, France, UAE, …)\n  Have you come into close contact (within 1.5 meters) with someone who has a laboratory confirmed or suspected COVID-19 diagnosis within the last 14 days?\n  Are you a first responder, healthcare worker, or employee or attendee of a child or adult care facility?\n  If at least one Yes  Send to The Get Tested Procedure  If all No  Ask Patient to self Isolate and give the instructions Leaflet About Self-Isolation (SOON)  "
 },
 {
-	"uri": "http://example.org/sections/hospital/hospital/",
-	"title": "Home to hospital",
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/",
+	"title": "Procedures",
 	"tags": [],
 	"description": "",
-	"content": "Chapter 1 Basics Discover what this Hugo theme is all about and the core concepts behind it.\n"
+	"content": ""
 },
 {
-	"uri": "http://example.org/sections/procedure/procedure/",
-	"title": "Procedure",
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/testedprocedure/",
+	"title": "Get Tested Procedure",
 	"tags": [],
 	"description": "",
-	"content": "Awarness Best Practices Disc\n"
+	"content": " Refer patient to the nearest approved institution for testing  See Institutions to get tested (soon)   Instruct the patient to wear a mask and avoid contact with any person while being transported to the institution\n  Attach information about Price and time of test. (SOON)\n  If it is after 7 pm, patient should get tested the next day in the nearest approved institution and isolate himself in the time being. Advice him to self-isolate Instruction for self-isolation (SOON)\n "
 },
 {
-	"uri": "http://example.org/",
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/awarness/followup/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "title = \u0026ldquo;Followup\u0026rdquo; chapter = false weight = 3 pre = \u0026ldquo;\u0026amp;nbsp\u0026rdquo;\nAwarness Best Practices Disc\n"
+},
+{
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/awarness/practices/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "title = \u0026ldquo;Practices\u0026rdquo; chapter = false weight = 2 pre = \u0026ldquo;\u0026amp;nbsp\u0026rdquo;\nAwarness Best Practices Disc\n"
+},
+{
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/awarness/quarantine/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "title = \u0026ldquo;Quarantine\u0026rdquo; chapter = false weight = 2 pre = \u0026ldquo;\u0026amp;nbsp\u0026rdquo;\nAwarness Best Practices Disc\n"
+},
+{
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/awarness/test/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "title = \u0026ldquo;Testing Detailss\u0026rdquo; chapter = false weight = 2 pre = \u0026ldquo;\u0026amp;nbsp\u0026rdquo;\nAwarness Best Practices Disc\n"
+},
+{
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/awarness/transmission/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "title = \u0026ldquo;Transmission\u0026rdquo; chapter = false weight = 2 pre = \u0026ldquo;\u0026amp;nbsp\u0026rdquo;\nAwarness Best Practices Disc\n"
+},
+{
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/",
 	"title": "Call center assistant",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/categories/",
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/sections/",
-	"title": "Sections",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://example.org/tags/",
+	"uri": "https://rooved-io.github.io/Covid19-Page/public/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",

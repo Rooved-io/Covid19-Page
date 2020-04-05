@@ -2,84 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Call center assistant</title>
-    <link>http://example.org/</link>
+    <link>https://rooved-io.github.io/Covid19-Page/public/</link>
     <description>Recent content on Call center assistant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rooved-io.github.io/Covid19-Page/public/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Awarness</title>
-      <link>http://example.org/sections/awarness/awarness/</link>
+      <title>General Informations</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/general/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/sections/awarness/awarness/</guid>
-      <description>Knowledge Base  1. COVID-19 Testing Details 2. COVID-19 Prevention Practices 3. COVID-19 Transmission Details 4. Quarantine full guide 5. Follow up after discharge </description>
+      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/general/</guid>
+      <description>What is a Coronavirus? Coronaviruses are a large family of viruses which may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19.
+ What is COVID-19? COVID-19 is the infectious disease caused by the most recently discovered coronavirus.</description>
     </item>
     
     <item>
-      <title>Followup</title>
-      <link>http://example.org/sections/followup/followup/</link>
+      <title>Emergency Procedure (Patient Transfer)</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/emergencyprocedurehomhos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/sections/followup/followup/</guid>
-      <description>Awarness Best Practices Disc</description>
+      <guid>https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/emergencyprocedurehomhos/</guid>
+      <description>Ask patient if he would like to get transferred to RHUH or to another hospital.
+If patient requests to get transferred to another hospital other than RHUH Provide the patient with the hospitals that accommodate COVID19 positive patient and inform them that they will have to coordinate with them by themselves.
+Hospitals that accommodate COVID19 patients (SOON)
+ If patient wants to get transferred to RHUH  patient will be put on hold.</description>
     </item>
     
     <item>
-      <title>Practices</title>
-      <link>http://example.org/sections/practices/practices/</link>
+      <title>Isolation Procedure</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/isolationprocedure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/sections/practices/practices/</guid>
-      <description>Awarness Best Practices Disc</description>
+      <guid>https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/isolationprocedure/</guid>
+      <description>Ask patient the following questions
+  Have you recently traveled to an area with known local spread of COVID-19? (Iran, Italy, spain, USA, France, UAE, …)
+  Have you come into close contact (within 1.5 meters) with someone who has a laboratory confirmed or suspected COVID-19 diagnosis within the last 14 days?
+  Are you a first responder, healthcare worker, or employee or attendee of a child or adult care facility?</description>
     </item>
     
     <item>
-      <title>Quarantine</title>
-      <link>http://example.org/sections/quarantine/quarantine/</link>
+      <title>Get Tested Procedure</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/testedprocedure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/sections/quarantine/quarantine/</guid>
-      <description>Awarness Best Practices Disc</description>
+      <guid>https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/testedprocedure/</guid>
+      <description>Refer patient to the nearest approved institution for testing  See Institutions to get tested (soon)   Instruct the patient to wear a mask and avoid contact with any person while being transported to the institution
+  Attach information about Price and time of test. (SOON)
+  If it is after 7 pm, patient should get tested the next day in the nearest approved institution and isolate himself in the time being.</description>
     </item>
     
     <item>
-      <title>Testing Detailss</title>
-      <link>http://example.org/sections/test/test/</link>
+      <title></title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/followup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/sections/test/test/</guid>
-      <description>Awarness Best Practices Disc</description>
+      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/followup/</guid>
+      <description>title = &amp;ldquo;Followup&amp;rdquo; chapter = false weight = 3 pre = &amp;ldquo;&amp;amp;nbsp&amp;rdquo;
+Awarness Best Practices Disc</description>
     </item>
     
     <item>
-      <title>Transmission</title>
-      <link>http://example.org/sections/trasmission/transmission/</link>
+      <title></title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/practices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/sections/trasmission/transmission/</guid>
-      <description>Awarness Best Practices Disc</description>
+      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/practices/</guid>
+      <description>title = &amp;ldquo;Practices&amp;rdquo; chapter = false weight = 2 pre = &amp;ldquo;&amp;amp;nbsp&amp;rdquo;
+Awarness Best Practices Disc</description>
     </item>
     
     <item>
-      <title>Home to hospital</title>
-      <link>http://example.org/sections/hospital/hospital/</link>
+      <title></title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/quarantine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/sections/hospital/hospital/</guid>
-      <description>Chapter 1 Basics Discover what this Hugo theme is all about and the core concepts behind it.</description>
+      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/quarantine/</guid>
+      <description>title = &amp;ldquo;Quarantine&amp;rdquo; chapter = false weight = 2 pre = &amp;ldquo;&amp;amp;nbsp&amp;rdquo;
+Awarness Best Practices Disc</description>
     </item>
     
     <item>
-      <title>Procedure</title>
-      <link>http://example.org/sections/procedure/procedure/</link>
+      <title></title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/sections/procedure/procedure/</guid>
-      <description>Awarness Best Practices Disc</description>
+      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/test/</guid>
+      <description>title = &amp;ldquo;Testing Detailss&amp;rdquo; chapter = false weight = 2 pre = &amp;ldquo;&amp;amp;nbsp&amp;rdquo;
+Awarness Best Practices Disc</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/transmission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/transmission/</guid>
+      <description>title = &amp;ldquo;Transmission&amp;rdquo; chapter = false weight = 2 pre = &amp;ldquo;&amp;amp;nbsp&amp;rdquo;
+Awarness Best Practices Disc</description>
     </item>
     
   </channel>
