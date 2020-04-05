@@ -1,4 +1,4 @@
-baseURL = "https://rooved-io.github.io/Covid19-Page/"
+baseURL = "https://rooved-io.github.io/Covid19-Page/public/"
 languageCode = "en-us"
 title = "COVID-19 RHH knowledge base"
 theme = "hugo-theme-learn"
