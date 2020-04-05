@@ -25,14 +25,14 @@
 	"title": "Home to Hospital Procedure",
 	"tags": [],
 	"description": "",
-	"content": " Have you recently traveled to an area with known local spread of COVID-19? Have you come into close contact (within 6 feet) with someone who has a laboratory confirmed COVID – 19 diagnosis in the past 14 days? Do you have a fever (greater than 100.4 F or 38.0 C) OR symptoms of lower respiratory illness such as cough, shortness of breath, difficulty breathing or sore throat? Are you a first responder, healthcare worker, or employee or attendee of a child or adult care facility?  If most questions are false  Send to The awerness  If most question are true  Do you feel troubled? Are you 50 years plus? Any cancer or other problems?   if Yes to one of the questions  Go to Hospital  if No  Go to Laboratory   "
+	"content": "Isolation Procedure Get Tested Procedure "
 },
 {
 	"uri": "https://rooved-io.github.io/Covid19-Page/public/hospital-to-hospital/",
 	"title": "Hospital To Hospital Procedure",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "Emergency Procedure (Patient Transfer) "
 },
 {
 	"uri": "https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/isolationprocedure/",

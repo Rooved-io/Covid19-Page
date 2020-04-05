@@ -22,6 +22,48 @@
   </url>
   
   <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/ar/typicalprocedures/isolationprocedure/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/isolationprocedure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/typicalprocedures/isolationprocedure/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/ar/typicalprocedures/emergencyprocedurehomhos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/emergencyprocedurehomhos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/typicalprocedures/emergencyprocedurehomhos/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/ar/typicalprocedures/testedprocedure/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/testedprocedure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/typicalprocedures/testedprocedure/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/</loc>
     <xhtml:link
                 rel="alternate"
@@ -71,6 +113,10 @@
                 hreflang="ar"
                 href="https://rooved-io.github.io/Covid19-Page/public/ar/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/ar/typicalprocedures/</loc>
   </url>
   
   <url>

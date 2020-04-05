@@ -27,6 +27,16 @@
   
   <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/emergencyprocedurehomhos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/typicalprocedures/emergencyprocedurehomhos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/emergencyprocedurehomhos/"
+                />
   </url>
   
   <url>
@@ -39,6 +49,16 @@
   
   <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/isolationprocedure/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/typicalprocedures/isolationprocedure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/isolationprocedure/"
+                />
   </url>
   
   <url>
@@ -47,6 +67,16 @@
   
   <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/testedprocedure/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/typicalprocedures/testedprocedure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/testedprocedure/"
+                />
   </url>
   
   <url>
