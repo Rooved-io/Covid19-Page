@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reference on Call center assistant</title>
+    <link>https://rooved-io.github.io/Covid19-Page/public/reference/</link>
+    <description>Recent content in Reference on Call center assistant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://rooved-io.github.io/Covid19-Page/public/reference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hospital For Testing</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/reference/hospitalforcorona/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rooved-io.github.io/Covid19-Page/public/reference/hospitalforcorona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phone Numbers</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/reference/phonenumbers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rooved-io.github.io/Covid19-Page/public/reference/phonenumbers/</guid>
+      <description>Emergency numbers:    Service Number     Police 112   Civil Defense 125   Fire Departement 175   Red Cross-Lebanon 140   General Security 1717   Embrace (Suicide Line) 1564    </description>
+    </item>
+    
+  </channel>
+</rss>

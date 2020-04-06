@@ -17,6 +17,10 @@
   </url>
   
   <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/general/</loc>
+  </url>
+  
+  <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/emergencyprocedurehomhos/</loc>
     <xhtml:link
                 rel="alternate"
@@ -87,6 +91,22 @@
   </url>
   
   <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/spread/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/symptomsntest/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/treatmentnvaccins/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/hygiene/</loc>
+  </url>
+  
+  <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/testedprocedure/</loc>
     <xhtml:link
                 rel="alternate"
@@ -98,6 +118,30 @@
                 hreflang="en"
                 href="https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/testedprocedure/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/precautions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/risk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/reference/hospitalforcorona/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/reference/phonenumbers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/reference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/government/</loc>
   </url>
   
   <url>
