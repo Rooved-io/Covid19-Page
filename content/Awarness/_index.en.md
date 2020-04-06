@@ -203,3 +203,143 @@ Additional measures that you and your friends can take include:
 -	We recommend checking safe travel advice about COVID-19 if you plan overseas travel.
 -	At this time, it wouldn’t make sense for someone who is immune-compromised to wear a mask when in public to decrease risk for catching COVID-19. However, if your health care provider advises you to wear a mask when in public areas because you have a particularly vulnerable immune system, follow that advice. 
 -	If you are taking immunosuppressive drugs we advise that you do not stop this medication without first consulting your GP or specialist.
+
+
+### What should I do if I am in active cancer treatment?
+Patients with cancer, and especially those on chemo and immunosuppressive therapy are at higher risk. These patients must follow the recommendations for high risk patients; self-isolation and strict hand hygiene. So far, there is no evidence to support changing or withholding chemotherapy or immunotherapy in patients with cancer. Clinical decisions should be individualized that consider factors such as the risk of cancer recurrence if therapy is delayed, modified or interrupted; the number of cycles of therapy already completed; and the patient’s tolerance of treatment. This decision must be taken with your oncologist.
+### When can I have the results 
+Results usually come within 24 hours after testing begins in the lab.
+ 
+### The rapid test
+Unavailable in Lebanon so far
+
+### Lock down period
+So far until April 12th. Will probably be renewed
+
+
+
+### When should I go to a hospital
+
+If you have a fever and at least one respiratory symptom OR two respiratory symptoms and risk factors (Severe symptoms, age>50, Chronic diseases, immunocompromised, undergoing chemotherapy, contact or travel history.) 
+Attach algorithm
+
+
+
+### Can lock down INVOLVE MY family? How can I live with them under the same roof?
+
+Yes, you can lockdown with your family if none of you are symptomatic or at high risk for the virus (travel history, contact history, healthcare worker at a center where there are cases or respiratory infections of unknown causes.) But you should maintain social distancing of at least two meters even at home.
+
+
+### When do I do the test
+If you have a fever and at least one respiratory symptom AND no risk factors (Severe symptoms, age>50, Chronic diseases, immunocompromised, undergoing chemotherapy, contact or travel history.)
+
+
+### Where can I do the test
+Refer to list of hospitals for testing
+
+### Am I going to pay for it and how much
+In public hospital, no. In private hospitals 150,000 LL.
+
+### What can I do to protect myself and prevent the spread of disease?
+The best way to prevent illness is to avoid being exposed to this virus;
+
+Clean your hands often
+- Wash your hands often with soap and water for at least 20 seconds especially after you have been in a public place, or after blowing your nose, coughing, or sneezing.
+- If soap and water are not readily available, use a hand sanitizer that contains at least 60% alcohol. Cover all surfaces of your hands and rub them together until they feel dry.
+- Avoid touching your eyes, nose, and mouth with unwashed hands.
+
+Avoid close contact
+-	Avoid close contact with people who are sick
+-	Stay home as much as possible
+-	Put distance between yourself and other people.
+    * Remember that some people without symptoms may be able to spread virus.
+    * Keeping distance from others is especially important for people who are at higher risk of getting very sick.
+
+Cover your mouth and nose with a cloth face cover when around others
+-	You could spread COVID-19 to others even if you do not feel sick.
+-	Everyone should wear a cloth face cover when they have to go out in public, for example to the grocery store or to pick up other necessities. 
+    * Cloth face coverings should not be placed on young children under age 2, anyone who has trouble breathing, or is unconscious, incapacitated or otherwise unable to remove the mask without assistance.
+- The cloth face cover is meant to protect other people in case you are infected.
+- Do NOT use a facemask meant for a healthcare worker.
+- Continue to keep about 6 feet between yourself and others. The cloth face cover is not a substitute for social distancing.
+
+Cover coughs and sneezes
+- If you are in a private setting and do not have on your cloth face covering, remember to always cover your mouth and nose with a tissue when you cough or sneeze or use the inside of your elbow.
+- Throw used tissues in the trash.
+- Immediately wash your hands with soap and water for at least 20 seconds. If soap and water are not readily available, clean your hands with a hand sanitizer that contains at least 60% alcohol.
+Clean and disinfect
+- Clean AND disinfect frequently touched surfaces daily. This includes tables, doorknobs, light switches, countertops, handles, desks, phones, keyboards, toilets, faucets, and sinks.
+- If surfaces are dirty, clean them: Use detergent or soap and water prior to disinfection.
+
+
+### What concentration is needed in disinfectant products – what are the most common use trademarks?
+- Alcohol based sanitizers : 60% alcohol  or more
+- Bleach (Eau de Javel, Clorox): 10% bleach and 90% water
+- Dettol
+- Pure alcohol (not recommended alone on skin)
+- Hydrogen peroxide (Eau oxygené)
+
+Check this website for more information
+https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2 
+
+
+### Sexually disease / does COVID transmit sexually
+It is not sexually transmitted but it can be transmitted during sexual acts through droplets simply due to proximity of sexual partners.
+
+### How do I raise my immunity
+A well-rounded diet, exercise, and good water intake.
+
+### I have a neighbor who is infected, what do I do 
+If you have a fever AND/OR 1 respiratory symptom and have had CLOSE contact (within 1.5 meters) with someone who has a laboratory confirmed or suspected COVID-19 diagnosis within the last 14 days, you need to be tested. If asymptomatic and have had CLOSE contact (within 1.5 meters) with someone who has a laboratory confirmed or suspected COVID-19 diagnosis within the last 14 days, self isolate.
+
+
+### Cleaning clothes management
+
+Linens, clothing, and other items that go in the laundry of an ill person:
+-	Wear disposable gloves when handling dirty laundry from an ill person and then discard after each use. If using reusable gloves, those gloves should be dedicated for cleaning and disinfection of surfaces for COVID-19 and should not be used for other household purposes. Clean hands immediately after gloves are removed. 
+-	If no gloves are used when handling dirty laundry, be sure to wash hands afterwards.
+-	If possible, do not shake dirty laundry. This will minimize the possibility of dispersing virus through the air.
+-	Launder items as appropriate in accordance with the manufacturer’s instructions. If possible, launder items using the warmest appropriate water setting for the items and dry items completely. Dirty laundry from an ill person can be washed with other people’s items.
+-	Clean and disinfect clothes hampers according to guidance above for surfaces. If possible, consider placing a bag liner that is either disposable (can be thrown away) or can be laundered.
+
+### Ariel or Persil
+It doesn’t matter
+
+
+### Burial
+
+Those with confirmed or suspected COVID-19 can be buried as usual.
+
+Direct contact with human remains or bodily fluids should be minimized during transport of the body from the site of death and during reception at the designated body storage sites.
+Those in contact with the wrapped body should wear appropriate PPE to minimize exposure to infected bodily fluids, contaminated objects and other contaminated environmental surfaces. The suggested set of PPE is gloves and long-sleeved water-resistant gown
+
+Shrouding and preparation of the body for viewing and/or funeral can be performed by using appropriate standard precautions and PPE to prevent transmission through direct contact. Minimum requirements include gloves and long-sleeved water-resistant gown.
+Viewing of the body for mourners can be performed. If mourners or religious representatives are to touch the body, standard precautions and PPE preventing transmission through direct contact should be used. Minimum requirements include gloves and long-sleeved water-resistant gown. Staff need to ensure that mourners receive support in the appropriate use of PPE. In case of limited PPE availability or shortage of staff to supervise visitors, consider to restrict touching during viewing
+
+
+
+### Secretions of patient
+To contain respiratory secretions, a medical mask4 should be provided to the patient and worn as much as possible. Individuals who cannot tolerate a medical mask should use rigorous respiratory hygiene − that is, the mouth and nose should be covered with a disposable paper tissue when coughing or sneezing. Materials used to cover the mouth and nose should be discarded or cleaned appropriately after use (e.g., wash handkerchiefs using regular soap or detergent and water). 
+Avoid direct contact with body fluids, particularly oral or respiratory secretions, and stool. Use disposable gloves and a mask when providing oral or respiratory care and when handling stool, urine and other waste. Perform hand hygiene before and after removing gloves and the mask. 
+
+Clean and disinfect daily surfaces that are frequently touched and may contain secretions in the room where the patient is being cared for, such as bedside tables, bedframes and other bedroom furniture. Regular household soap or detergent should be used first for cleaning, and then, after rinsing, regular household disinfectant containing 0.5% sodium hypochlorite (i.e., equivalent to 5000 pm or 1 part bleach5 to 9 parts water) should be applied. 
+
+### How recurrent is the test
+The patient should be tested negative twice in order to be deemed coronavirus free.
+
+### How do I dispose of Garbage
+Waste from possible cases and cleaning of areas where possible cases have been (including disposable cloths and tissues):
+1.	Should be put in a plastic rubbish bag and tied when full.
+2.	The plastic bag should then be placed in a second bin bag and tied.
+3.	It should be put in a suitable and secure place and marked for storage until the individual’s test results are known.
+Waste should be stored safely and kept away from children. You should not put your waste in communal waste areas until negative test results are known or the waste has been stored for at least 72 hours.
+-	if the individual tests negative, this can be put in with the normal waste
+-	if the individual tests positive, then store it for at least 72 hours and put in with the normal waste
+
+
+### Toilet management?
+If a separate bathroom is not available, the bathroom should be cleaned and disinfected after each use by an ill person. If this is not possible, the caregiver should wait as long as practical after use by an ill person to clean and disinfect the high-touch surfaces.
+
+
+### Is it safe to go inside RHH?
+We should minimize entries to all hospitals during the lockdown and during the pandemic. You should follow hospital protocols. Most hospitals have restricted visits and are requiring all personnel and visitors to wear a facemask.

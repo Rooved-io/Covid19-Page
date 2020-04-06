@@ -21,5 +21,5 @@ Provide the patient with the hospitals that accommodate COVID19 positive patient
 - Talk to patient and inform them that they got cleared from RHUH and that they will be contacted by the Red cross shortly to coordinate the transfer.
 
 {{% notice warning %}}
-If patient has **suicidal** Thougnt Transfer to **1564**. 
+If patient has **suicidal** thought Transfer to **1564**. 
 {{% /notice %}}
