@@ -91,15 +91,15 @@
   </url>
   
   <url>
-    <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/spread/</loc>
-  </url>
-  
-  <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/symptomsntest/</loc>
   </url>
   
   <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/treatmentnvaccins/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/spread/</loc>
   </url>
   
   <url>
@@ -121,11 +121,11 @@
   </url>
   
   <url>
-    <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/precautions/</loc>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/risk/</loc>
   </url>
   
   <url>
-    <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/risk/</loc>
+    <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/precautions/</loc>
   </url>
   
   <url>

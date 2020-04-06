@@ -6,6 +6,7 @@ pre = "<b> </b>"
 +++
 
 
+
 ### Why should I Avoid touching eyes, nose and mouth? 
 
 Why? Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth. From there, the virus can enter your body and can make you sick.

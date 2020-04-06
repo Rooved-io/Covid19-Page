@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>General</title>
+      <title>Generalities about COVID 19</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/awarness/general/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -21,17 +21,7 @@ What is COVID-19? COVID-19 is the infectious disease caused by the most recently
     </item>
     
     <item>
-      <title>Spread</title>
-      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/spread/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/spread/</guid>
-      <description>How does COVID-19 spread? People can catch COVID-19 from others who have the virus.
-The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets.</description>
-    </item>
-    
-    <item>
-      <title>Symptoms And Test</title>
+      <title>Symptoms And Tests</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/awarness/symptomsntest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -41,7 +31,7 @@ The disease can spread from person to person through small droplets from the nos
     </item>
     
     <item>
-      <title>Treatment and Vaccins</title>
+      <title>Treatment and Vaccine</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/awarness/treatmentnvaccins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -50,13 +40,33 @@ The disease can spread from person to person through small droplets from the nos
     </item>
     
     <item>
-      <title>Disinfections &amp; Hygiene</title>
+      <title>Ways of Spreading</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/spread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/spread/</guid>
+      <description>How does COVID-19 spread? People can catch COVID-19 from others who have the virus.
+The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets.</description>
+    </item>
+    
+    <item>
+      <title>Disinfection &amp; Hygiene</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/awarness/hygiene/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/hygiene/</guid>
       <description>What concentration is needed in disinfectant products – what are the most common use trademarks?  Alcohol based sanitizers : 60% alcohol or more Bleach(Eau de Javel, Clorox): 10% bleach and 90% water Detol Pure alcohol (not recommended alone on skin) Hydrogen peroxide (eau oxygene) Check this website for more information  How do I raise my immunity? A well rounded diet, exercise, and good water intake.
 Cleaning clothes management? Linens, clothing, and other items that go in the laundry of an ill person:</description>
+    </item>
+    
+    <item>
+      <title>High Risk Individuals</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/risk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/risk/</guid>
+      <description>Are some people more at risk than others? Elderly people above 70 years of age and those with underlying health conditions (e.g. hypertension, diabetes, cardiovascular disease, chronic respiratory disease and cancer) are considered to be more at risk of developing severe symptoms. Men in these groups also appear to be at a slightly higher risk than females.
+Are children also at risk of infection and what is their potential role in transmission?</description>
     </item>
     
     <item>
@@ -69,17 +79,7 @@ Cleaning clothes management? Linens, clothing, and other items that go in the la
     </item>
     
     <item>
-      <title>Risk</title>
-      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/risk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/risk/</guid>
-      <description>Are some people more at risk than others? Elderly people above 70 years of age and those with underlying health conditions (e.g. hypertension, diabetes, cardiovascular disease, chronic respiratory disease and cancer) are considered to be more at risk of developing severe symptoms. Men in these groups also appear to be at a slightly higher risk than females.
-Are children also at risk of infection and what is their potential role in transmission?</description>
-    </item>
-    
-    <item>
-      <title>Government</title>
+      <title>Governmental Decisions</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/awarness/government/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

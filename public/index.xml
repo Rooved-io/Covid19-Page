@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>General</title>
+      <title>Generalities about COVID 19</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/awarness/general/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -45,17 +45,7 @@ Hospitals that accommodate COVID19 patients (SOON)
     </item>
     
     <item>
-      <title>Spread</title>
-      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/spread/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/spread/</guid>
-      <description>How does COVID-19 spread? People can catch COVID-19 from others who have the virus.
-The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets.</description>
-    </item>
-    
-    <item>
-      <title>Symptoms And Test</title>
+      <title>Symptoms And Tests</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/awarness/symptomsntest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -65,7 +55,7 @@ The disease can spread from person to person through small droplets from the nos
     </item>
     
     <item>
-      <title>Treatment and Vaccins</title>
+      <title>Treatment and Vaccine</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/awarness/treatmentnvaccins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -74,7 +64,17 @@ The disease can spread from person to person through small droplets from the nos
     </item>
     
     <item>
-      <title>Disinfections &amp; Hygiene</title>
+      <title>Ways of Spreading</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/spread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/spread/</guid>
+      <description>How does COVID-19 spread? People can catch COVID-19 from others who have the virus.
+The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets.</description>
+    </item>
+    
+    <item>
+      <title>Disinfection &amp; Hygiene</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/awarness/hygiene/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -95,22 +95,22 @@ Cleaning clothes management? Linens, clothing, and other items that go in the la
     </item>
     
     <item>
-      <title>Precautions</title>
-      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/precautions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/precautions/</guid>
-      <description>Why should I Avoid touching eyes, nose and mouth? Why? Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth. From there, the virus can enter your body and can make you sick. Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze.</description>
-    </item>
-    
-    <item>
-      <title>Risk</title>
+      <title>High Risk Individuals</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/awarness/risk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/risk/</guid>
       <description>Are some people more at risk than others? Elderly people above 70 years of age and those with underlying health conditions (e.g. hypertension, diabetes, cardiovascular disease, chronic respiratory disease and cancer) are considered to be more at risk of developing severe symptoms. Men in these groups also appear to be at a slightly higher risk than females.
 Are children also at risk of infection and what is their potential role in transmission?</description>
+    </item>
+    
+    <item>
+      <title>Precautions</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/precautions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/precautions/</guid>
+      <description>Why should I Avoid touching eyes, nose and mouth? Why? Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth. From there, the virus can enter your body and can make you sick. Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze.</description>
     </item>
     
     <item>
@@ -132,7 +132,7 @@ Are children also at risk of infection and what is their potential role in trans
     </item>
     
     <item>
-      <title>Government</title>
+      <title>Governmental Decisions</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/awarness/government/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

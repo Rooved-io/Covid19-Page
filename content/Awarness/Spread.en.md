@@ -1,9 +1,10 @@
 +++
-title = "Spread"
+title = "Ways of Spreading"
 chapter = false
 weight = 2
 pre = "<b> </b>"
 +++
+
 
 ### How does COVID-19 spread? 
 

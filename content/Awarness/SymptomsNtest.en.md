@@ -1,9 +1,10 @@
 +++
-title = "Symptoms And Test"
+title = "Symptoms And Tests"
 chapter = false
 weight = 2
 pre = "<b> </b>"
 +++
+
 
 ### What are the symptoms of COVID-19?
 

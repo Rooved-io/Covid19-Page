@@ -9,14 +9,14 @@ pre = "<b> </b>"
 
 ---
 
-#### 1. [General](general/)
-#### 2. [Spread](spread/)
-#### 3. [Symptoms And Test](symptomsntest/)
-#### 4. [Treatment and Vaccins](treatmentnvaccins/)
-#### 5. [Disinfections & Hygiene](hygiene/)
+#### 1. [Generalities about COVID 19](general/)
+#### 2. [Ways of Spreading](spread/)
+#### 3. [Symptoms And Tests](symptomsntest/)
+#### 4. [Treatment and Vaccine](treatmentnvaccins/)
+#### 5. [Disinfection & Hygiene](hygiene/)
 #### 6. [Precautions](precautions/)
-#### 7. [Risk](risk/)
-#### 8. [Government](government/)
+#### 7. [High Risk Individuals](risk/)
+#### 8. [Governmental Decisions](government/)
 
 
 

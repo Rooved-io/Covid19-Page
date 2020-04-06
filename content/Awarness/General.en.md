@@ -1,5 +1,5 @@
 +++
-title = "General"
+title = "Generalities about COVID 19"
 chapter = false
 weight = 1
 pre = "<b> </b>"

@@ -1,5 +1,5 @@
 +++
-title = "Treatment and Vaccins"
+title = "Treatment and Vaccine"
 chapter = false
 weight = 2
 pre = "<b> </b>"
