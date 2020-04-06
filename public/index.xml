@@ -11,16 +11,6 @@
     
     
     <item>
-      <title>General Informations</title>
-      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/general/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/general/</guid>
-      <description>What is a Coronavirus? Coronaviruses are a large family of viruses which may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19.
- What is COVID-19? COVID-19 is the infectious disease caused by the most recently discovered coronavirus.</description>
-    </item>
-    
-    <item>
       <title>Emergency Procedure (Patient Transfer)</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/typicalprocedures/emergencyprocedurehomhos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -53,56 +43,6 @@ Hospitals that accommodate COVID19 patients (SOON)
       <description>Refer patient to the nearest approved institution for testing  See Institutions to get tested (soon)   Instruct the patient to wear a mask and avoid contact with any person while being transported to the institution
   Attach information about Price and time of test. (SOON)
   If it is after 7 pm, patient should get tested the next day in the nearest approved institution and isolate himself in the time being.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/followup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/followup/</guid>
-      <description>title = &amp;ldquo;Followup&amp;rdquo; chapter = false weight = 3 pre = &amp;ldquo;&amp;amp;nbsp&amp;rdquo;
-Awarness Best Practices Disc</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/practices/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/practices/</guid>
-      <description>title = &amp;ldquo;Practices&amp;rdquo; chapter = false weight = 2 pre = &amp;ldquo;&amp;amp;nbsp&amp;rdquo;
-Awarness Best Practices Disc</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/quarantine/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/quarantine/</guid>
-      <description>title = &amp;ldquo;Quarantine&amp;rdquo; chapter = false weight = 2 pre = &amp;ldquo;&amp;amp;nbsp&amp;rdquo;
-Awarness Best Practices Disc</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/test/</guid>
-      <description>title = &amp;ldquo;Testing Detailss&amp;rdquo; chapter = false weight = 2 pre = &amp;ldquo;&amp;amp;nbsp&amp;rdquo;
-Awarness Best Practices Disc</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://rooved-io.github.io/Covid19-Page/public/awarness/transmission/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rooved-io.github.io/Covid19-Page/public/awarness/transmission/</guid>
-      <description>title = &amp;ldquo;Transmission&amp;rdquo; chapter = false weight = 2 pre = &amp;ldquo;&amp;amp;nbsp&amp;rdquo;
-Awarness Best Practices Disc</description>
     </item>
     
   </channel>
