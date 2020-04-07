@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rooved-io.github.io/Covid19-Page/public/reference/hospitalforcorona/</guid>
-      <description></description>
+      <description>   Beirut Governorate      Rafik Hariri University Hospital (Free Examination) N/A   American University Hospital in Beirut Number: 01350000   Hôtel-Dieu de France Hospital Number: 01 604 000   LAU Medical Center-Rizk Hospital Number: 01 200 800 - 01 441 000 - Hotline: 1287   Lebanese University Hospital Al Geitaoui Number: 01 590000   Saint George Hospital Al Hadath 05 462 322 - 05 463922- 76 365355       Mount Lebanon Governorate      CHOUF QADA    Ain And Zain Hospital Number 05 509 001   BAADDA QADA    Mount Lebanon Hospital Hazmieh  Number 05 957 000       Byblos      Notre Dame Des Secours Hospital (Ma3ounet) Number: 09 940000       Metn      Serhal Hospital Number: 04 417 910   Bhannes Hospital Number: 04 98 3770/2       South Lebanon      Hammoud University Hospital 07 721 021       North Lebanon Governonate      Mazloum Hospital- Tripoli Number: 06/410025   Haykal Hospital- Dahr el Ein Number: 06 411 111    </description>
     </item>
     
     <item>
@@ -26,6 +26,15 @@
       
       <guid>https://rooved-io.github.io/Covid19-Page/public/reference/phonenumbers/</guid>
       <description>Emergency numbers:    Service Number     Police 112   Civil Defense 125   Fire Departement 175   Red Cross-Lebanon 140   General Security 1717   Embrace (Suicide Line) 1564    </description>
+    </item>
+    
+    <item>
+      <title>Quarantine Instructions</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/reference/quarantine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rooved-io.github.io/Covid19-Page/public/reference/quarantine/</guid>
+      <description>Pamphlet for Quarantine (click to expand)     Quarantine Instructions:  Never leave home except to receive medical care. Remain in a separate isolated well ventilated room, away from others. Avoid ANY contact with high risk individuals. If contact with others is unavoidable, wear a cloth face covering or a facemask and always remain at least 2 meters away from them. . After use, disposable facemasks and gloves should be properly discarded without reuse, preferably in a closed container.</description>
     </item>
     
   </channel>
