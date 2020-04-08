@@ -18,6 +18,16 @@
   
   <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/general/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/awarness/general/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/awarness/general/"
+                />
   </url>
   
   <url>
@@ -92,18 +102,58 @@
   
   <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/symptomsntest/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/awarness/symptomsntest/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/awarness/symptomsntest/"
+                />
   </url>
   
   <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/treatmentnvaccins/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/awarness/treatmentnvaccins/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/awarness/treatmentnvaccins/"
+                />
   </url>
   
   <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/spread/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/awarness/spread/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/awarness/spread/"
+                />
   </url>
   
   <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/hygiene/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/awarness/hygiene/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/awarness/hygiene/"
+                />
   </url>
   
   <url>
@@ -122,10 +172,30 @@
   
   <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/risk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/awarness/risk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/awarness/risk/"
+                />
   </url>
   
   <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/precautions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/awarness/precautions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/awarness/precautions/"
+                />
   </url>
   
   <url>
@@ -146,6 +216,16 @@
   
   <url>
     <loc>https://rooved-io.github.io/Covid19-Page/public/awarness/government/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rooved-io.github.io/Covid19-Page/public/ar/awarness/government/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rooved-io.github.io/Covid19-Page/public/awarness/government/"
+                />
   </url>
   
   <url>
