@@ -1,5 +1,5 @@
 +++
-title = "Ways of Spreading"
+title = "طرق الانتشار"
 chapter = false
 weight = 2
 pre = "<b> </b>"

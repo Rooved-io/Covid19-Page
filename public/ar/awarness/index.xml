@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>Generalities about COVID 19</title>
+      <title>عموميات حول COVID 19</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/general/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Symptoms And Tests</title>
+      <title>الأعراض والاختبارات</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/symptomsntest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Treatment and Vaccine</title>
+      <title>العلاج واللقاح</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/treatmentnvaccins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title>Ways of Spreading</title>
+      <title>طرق الانتشار</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/spread/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -48,16 +48,7 @@
     </item>
     
     <item>
-      <title>Disinfection &amp; Hygiene</title>
-      <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/hygiene/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/hygiene/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High Risk Individuals</title>
+      <title>الأفراد المعرضين للخطر</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/risk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -66,7 +57,7 @@
     </item>
     
     <item>
-      <title>Precautions</title>
+      <title>الاحتياطات</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/precautions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -75,7 +66,16 @@
     </item>
     
     <item>
-      <title>Governmental Decisions</title>
+      <title>التطهير والنظافة</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/hygiene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/hygiene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>القرارات الحكومية</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/government/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

@@ -1,5 +1,5 @@
 +++
-title = "Symptoms And Tests"
+title = "الأعراض والاختبارات"
 chapter = false
 weight = 2
 pre = "<b> </b>"

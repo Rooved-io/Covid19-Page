@@ -11,40 +11,13 @@
     
     
     <item>
-      <title>Generalities about COVID 19</title>
+      <title>عموميات حول COVID 19</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/general/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/general/</guid>
       <description>ما هو فيروس كورونا؟ فيروسات كورونا هي عائلة كبيرة من الفيروسات التي قد تسبب المرض لدى الحيوانات أو البشر. لدى البشر، هناك العديد من فيروسات كورونا معروفة انها تسبب التهابات في الجهاز التنفسي تتراوح بين نزلات البرد إلى الأمراض الأكثر شدة مثل متلازمة الشرق الأوسط التنفسية (MERS) ومتلازمة التنفس الحاد الشديد (SARS). أحدث اكتشاف لفيروس كورونا يسبب مرض الفيروس كورونا كورونا.
 ما هو COVID19؟ كورونا هو المرض المعدي, الناجم عن أحدث اكتشاف لفيروس كورونا.</description>
-    </item>
-    
-    <item>
-      <title>Symptoms And Tests</title>
-      <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/symptomsntest/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/symptomsntest/</guid>
-      <description>ما هي عوارض كورونا? العوارض الأكثر شيوعا ل كورونا هي: الحمى التعب السعال الجاف قد يكون لدى بعض المرضى الأوجاع والآلام، أو احتقان الأنف، أو سيلان الأنف، أو التهاب الحلق أو الإسهال. هذه العوارض عادة ما تكون خفيفة وتبدأ تدريجيا. قد يصاب بعض الأشخاص بالعدوى ولكنهم لا يصابون بأي عوارض ولا يشعرون بالألم. معظم الناس (حوالي 80٪ ) يتعافون من المرض دون الحاجة إلى علاج خاص. حوالي شخص واحد(1) من كل 6 أشخاص الذين يصابون ب كورونا يصبح مريضا بشكل خطير وعاني صعوبة في التنفس.</description>
-    </item>
-    
-    <item>
-      <title>Treatment and Vaccine</title>
-      <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/treatmentnvaccins/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/treatmentnvaccins/</guid>
-      <description>ما هي التدخلات الطبية المتاحة لفيروسات كورونا والأنفلونزا؟ وفي حين أن هناك عدداً من العلاجات التي تجري حالياً في التجارب السريرية في الصين وأكثر من 20 لقاحاً في طور التطوير للقاح كورونا، الا انه لا توجد حالياً لقاحات أو علاجات مرخصة لـكورونا. وعلى النقيض من ذلك، فانه تتوفر مضادات الفيروسات واللقاحات للإنفلونزا. وفي حين أن لقاح الأنفلونزا ليس فعالاً ضد فيروس كورونا، يوصى بشدة بالتطعيم كل عام للوقاية من عدوى الأنفلونزا.</description>
-    </item>
-    
-    <item>
-      <title>Ways of Spreading</title>
-      <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/spread/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/spread/</guid>
-      <description>كيف ينتشر كورونا؟ يمكن للناس التقاط كورونا من الآخرين الذين لديهم الفيروس. يمكن أن ينتشر المرض من شخص إلى آخر من خلال رذاذات صغيرة من الأنف أو الفم التي تنتشر عندما يسعل أو يزفر شخص مصاب بـكورونا. هذه الرذاذات تهبط على الأشياء والأسطح لمحيطة بالشخص. ثم يلتقط أشخاص آخرون كورونا عن طريق لمس هذه الأشياء أو الأسطح ، ثم يلمسون عيونهم أو أنوفهم أو أفواههم. يمكن للناس أيضا التقاط كورونا إذا كانوا يتنفسون رذاذات من شخص عنده كورونا يسعل أو يزفر رذاذات.</description>
     </item>
     
     <item>
@@ -72,30 +45,30 @@
     </item>
     
     <item>
-      <title>Disinfection &amp; Hygiene</title>
-      <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/hygiene/</link>
+      <title>الأعراض والاختبارات</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/symptomsntest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/hygiene/</guid>
-      <description></description>
+      <guid>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/symptomsntest/</guid>
+      <description>ما هي عوارض كورونا? العوارض الأكثر شيوعا ل كورونا هي: الحمى التعب السعال الجاف قد يكون لدى بعض المرضى الأوجاع والآلام، أو احتقان الأنف، أو سيلان الأنف، أو التهاب الحلق أو الإسهال. هذه العوارض عادة ما تكون خفيفة وتبدأ تدريجيا. قد يصاب بعض الأشخاص بالعدوى ولكنهم لا يصابون بأي عوارض ولا يشعرون بالألم. معظم الناس (حوالي 80٪ ) يتعافون من المرض دون الحاجة إلى علاج خاص. حوالي شخص واحد(1) من كل 6 أشخاص الذين يصابون ب كورونا يصبح مريضا بشكل خطير وعاني صعوبة في التنفس.</description>
     </item>
     
     <item>
-      <title>High Risk Individuals</title>
-      <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/risk/</link>
+      <title>العلاج واللقاح</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/treatmentnvaccins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/risk/</guid>
-      <description></description>
+      <guid>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/treatmentnvaccins/</guid>
+      <description>ما هي التدخلات الطبية المتاحة لفيروسات كورونا والأنفلونزا؟ وفي حين أن هناك عدداً من العلاجات التي تجري حالياً في التجارب السريرية في الصين وأكثر من 20 لقاحاً في طور التطوير للقاح كورونا، الا انه لا توجد حالياً لقاحات أو علاجات مرخصة لـكورونا. وعلى النقيض من ذلك، فانه تتوفر مضادات الفيروسات واللقاحات للإنفلونزا. وفي حين أن لقاح الأنفلونزا ليس فعالاً ضد فيروس كورونا، يوصى بشدة بالتطعيم كل عام للوقاية من عدوى الأنفلونزا.</description>
     </item>
     
     <item>
-      <title>Precautions</title>
-      <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/precautions/</link>
+      <title>طرق الانتشار</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/spread/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/precautions/</guid>
-      <description>أفضل حالات التوعية ابقَ على اطلاع بأحدث المعلومات عن تفشي كورونا، المتاحة على موقع منظمة الصحة العالمية WHO ومن خلال وزارة الصحة العامة (والصليب الأحمر اللبناني ونقابة الأطباء وتقارير مستشفى بيروت الحكومي (مستشفى رفيق الحريري الجامعي)). وقد شهد العديد من البلدان في جميع أنحاء العالم حالات من كورونا وشهد العديد تفشي كورونا. وقد نجحت السلطات في الصين وبعض البلدان الأخرى في إبطاء أو وقف تفشيها. ومع ذلك ، فإن الوضع لا يمكن التنبؤ به, لذلك تحقق بانتظام من آخر الأخبار.</description>
+      <guid>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/spread/</guid>
+      <description>كيف ينتشر كورونا؟ يمكن للناس التقاط كورونا من الآخرين الذين لديهم الفيروس. يمكن أن ينتشر المرض من شخص إلى آخر من خلال رذاذات صغيرة من الأنف أو الفم التي تنتشر عندما يسعل أو يزفر شخص مصاب بـكورونا. هذه الرذاذات تهبط على الأشياء والأسطح لمحيطة بالشخص. ثم يلتقط أشخاص آخرون كورونا عن طريق لمس هذه الأشياء أو الأسطح ، ثم يلمسون عيونهم أو أنوفهم أو أفواههم. يمكن للناس أيضا التقاط كورونا إذا كانوا يتنفسون رذاذات من شخص عنده كورونا يسعل أو يزفر رذاذات.</description>
     </item>
     
     <item>
@@ -110,7 +83,34 @@
     </item>
     
     <item>
-      <title>Governmental Decisions</title>
+      <title>الأفراد المعرضين للخطر</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/risk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>الاحتياطات</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/precautions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/precautions/</guid>
+      <description>أفضل حالات التوعية ابقَ على اطلاع بأحدث المعلومات عن تفشي كورونا، المتاحة على موقع منظمة الصحة العالمية WHO ومن خلال وزارة الصحة العامة (والصليب الأحمر اللبناني ونقابة الأطباء وتقارير مستشفى بيروت الحكومي (مستشفى رفيق الحريري الجامعي)). وقد شهد العديد من البلدان في جميع أنحاء العالم حالات من كورونا وشهد العديد تفشي كورونا. وقد نجحت السلطات في الصين وبعض البلدان الأخرى في إبطاء أو وقف تفشيها. ومع ذلك ، فإن الوضع لا يمكن التنبؤ به, لذلك تحقق بانتظام من آخر الأخبار.</description>
+    </item>
+    
+    <item>
+      <title>التطهير والنظافة</title>
+      <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/hygiene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/hygiene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>القرارات الحكومية</title>
       <link>https://rooved-io.github.io/Covid19-Page/public/ar/awarness/government/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
