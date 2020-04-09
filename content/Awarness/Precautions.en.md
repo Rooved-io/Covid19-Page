@@ -49,7 +49,7 @@ In any case, if you have fever, cough and difficulty breathing seek medical care
 ### Can lock down INVOLVE MY family? How can I live with them under the same roof?
 Yes, you can lockdown with your family if none of you are symptomatic or at high risk for the virus (travel history, contact history, healthcare worker at a center where there are cases or respiratory infections of unknown causes.) But you should maintain social distancing of at least two meters even at home.
 
-### What can I do to protect myself and prevent the spread of disease?   Precautions
+### What can I do to protect myself and prevent the spread of disease? 
 The best way to prevent illness is to avoid being exposed to this virus;
 
 Clean your hands often
